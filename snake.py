@@ -1,7 +1,7 @@
 import pygame
 import random
-import sklearn
 import os
+import pkg_resources.py2_warn
 
 pygame.mixer.init()
 
