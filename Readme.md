@@ -21,7 +21,6 @@ OR
 
 Dont Delete Any Files.. IT MAY CRASH THE GAME!
 
-```Start The Game Using Snake.exe File!```
 
 <br>
 
