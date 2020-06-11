@@ -100,7 +100,7 @@ def gameloop():
     fps = 40
     while not exit_game:
         if game_over:
-            with open("highscore.txt", "w") as f:
+            with open("highScore/highscore.txt", "w") as f:
                 f.write(str(highscore))
 
             # GameOverScreen
@@ -145,7 +145,7 @@ def gameloop():
                 if score > int(highscore):
                     highscore = score
             gameWindow.blit(gameBackground, (0, 0))
-            text_screen('Score: ' + str(score) + "    Hi Score: " +
+            text_screen('Score: ' + str(score) + "    High Score: " +
                         str(highscore), white, 270, 5)
             pygame.draw.circle(gameWindow, red, [food_x, food_y], 15)
             head = []
