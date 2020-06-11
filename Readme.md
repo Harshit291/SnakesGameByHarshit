@@ -23,9 +23,9 @@ Dont Delete Any Files.. IT MAY CRASH THE GAME!
 
 ```Start The Game Using Snake.exe File!```
 
+<br>
 
 > **Cheat Codes**
-<br>
 Press <b>TAB</b> key to add extra 10 points. :smile:
 
 
