@@ -1,6 +1,6 @@
-# Snake Game by Harshit [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-This Snake Game Is Made Using Python 3.8.2 & Pygame Module.
-I Hope You Will Like The Game... Just download the game and enjoy it in your own computer.
+# Snake Game by Harshit 
+This Snake Game Is Made Using Python 3.8.2 & Pygame Module.\
+I Hope You Will Like The Game... Just download the game and enjoy it in your own computer.\
 WARNING: This game is very addictive :smile:
 
 > ### To play the game, simply double click on the **Snake.exe**.
@@ -23,6 +23,10 @@ Dont Delete Any Files.. IT MAY CRASH THE GAME!
 
 ```Start The Game Using Snake.exe File!```
 
+
+> **Cheat Codes**
+<br>
+Press <b>TAB</b> key to add extra 10 points. :smile:
 
 
 * Follow Me On Instagram at [Harshit Gupta](https://www.instagram.com/__zenith___/)
