@@ -25,7 +25,7 @@ Dont Delete Any Files.. IT MAY CRASH THE GAME!
 
 <br>
 
-> **Cheat Codes**
+> **Cheat Codes**\
 Press <b>TAB</b> key to add extra 10 points. :smile:
 
 
